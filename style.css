@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(224, 173, 4);
+}
+
+main {
+    width: 400px;
+    height: 185px;
+    display: block;
+    margin: 0 auto;
+    background: white;
+    margin-top: 70px;
+    border-radius: 5px;
+    box-shadow: 6px 10px 2px black;
+    border: 2px solid black;
+}
+
+main .container h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    padding: 60px;
+    margin-left: 55px;
+    font-size: 45px;
+}
+
+.content h4 {
+    position: relative;
+    bottom: 40px;
+    left: 75px;
+
+}
+
+.ww {
+
+    width: 400px;
+    height: 4px;
+    background-color: black;
+    position: relative;
+    top: 30px;
+}
+main .mersedes{
+    width: 400px;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+    background: white;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 6px 10px 2px black;
+    border: 2px solid black;
+    position: relative;
+    right: 650px;
+}
+main .pepsi{
+    width: 400px;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+    background: white;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 6px 10px 2px black;
+    border: 2px solid black;
+    position: relative;
+    bottom: 153px;
+}
+h3{
+    font-size: 33px;
+    position: relative;
+    margin-left: 140px;
+    top: 20px;
+}
+main .messi{
+    width: 400px;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+    background: white;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 6px 10px 2px black;
+    border: 2px solid black;
+    position: relative;
+    left: 650px;
+    bottom: 303px;
+}
+main .pubg{
+    width: 400px;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+    background: white;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 6px 10px 2px black;
+    border: 2px solid black;
+    position: relative;
+    right: 650px;
+    bottom: 250px;
+}
+main .damir{
+    width: 400px;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+    background: white;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 6px 10px 2px black;
+    border: 2px solid black;
+    position: relative;
+    bottom: 403px;
+}
+main .azamat{
+    width: 400px;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+    background: white;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 6px 10px 2px black;
+    border: 2px solid black;
+    position: relative;
+    left: 650px;
+    bottom: 553px;
+}
